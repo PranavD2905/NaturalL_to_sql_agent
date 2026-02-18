@@ -1,4 +1,4 @@
-# NL2SQL Agent
+# Natural Language to SQL Queries Live Agent
 
 This project implements a session-based, RAG-powered AI agent that translates natural language into SQL queries for live querying of PostgreSQL databases. It leverages LangChain, LangGraph, PGVector, and modern agentic patterns with production-quality tooling.
 
